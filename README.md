@@ -1,1 +1,1 @@
-Fİnansal Analaizde Makine Öğrenimi Teknikleri
+Fİnansal Analizde Makine Öğrenimi Teknikleri
