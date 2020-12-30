@@ -1,1 +1,1 @@
-# Financial_Analysis
+Fİnansal Analaizde Makine Öğrenimi Teknikleri
